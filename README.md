@@ -1,2 +1,1 @@
-# ECS140A
-Java/Prolog/LISP
+# ECS140A - Java
